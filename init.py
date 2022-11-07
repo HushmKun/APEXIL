@@ -1,7 +1,7 @@
 from util.API import API 
 
 
-PEXELS_API_KEY = "563492ad6f91700001000001f29e8c757b224c5ab116bca75da75c46"
+PEXELS_API_KEY = ""
 
 on = True
 

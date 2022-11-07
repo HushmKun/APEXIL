@@ -23,6 +23,7 @@ pip install -r requirments.txt
 
 ### Executing program
 
+* Add your API Key to the constant at the start of init
 * Run the init file
 * Enter a tag to download from 
 ```
